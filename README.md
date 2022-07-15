@@ -1,2 +1,2 @@
 # exercism
-Exercism challenges repository
+[Exercism](https://exercism.org/profiles/shoriminimoe) challenges repository
